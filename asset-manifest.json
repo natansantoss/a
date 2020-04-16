@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/valor-moeda-react/static/css/main.0e131765.chunk.css",
+    "main.js": "/valor-moeda-react/static/js/main.1af96170.chunk.js",
+    "main.js.map": "/valor-moeda-react/static/js/main.1af96170.chunk.js.map",
+    "runtime-main.js": "/valor-moeda-react/static/js/runtime-main.07d98067.js",
+    "runtime-main.js.map": "/valor-moeda-react/static/js/runtime-main.07d98067.js.map",
+    "static/js/2.183c4eae.chunk.js": "/valor-moeda-react/static/js/2.183c4eae.chunk.js",
+    "static/js/2.183c4eae.chunk.js.map": "/valor-moeda-react/static/js/2.183c4eae.chunk.js.map",
+    "index.html": "/valor-moeda-react/index.html",
+    "precache-manifest.f19967b11757c3c83b2a75bda17a934a.js": "/valor-moeda-react/precache-manifest.f19967b11757c3c83b2a75bda17a934a.js",
+    "service-worker.js": "/valor-moeda-react/service-worker.js",
+    "static/css/main.0e131765.chunk.css.map": "/valor-moeda-react/static/css/main.0e131765.chunk.css.map",
+    "static/js/2.183c4eae.chunk.js.LICENSE.txt": "/valor-moeda-react/static/js/2.183c4eae.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.07d98067.js",
+    "static/js/2.183c4eae.chunk.js",
+    "static/css/main.0e131765.chunk.css",
+    "static/js/main.1af96170.chunk.js"
+  ]
+}
